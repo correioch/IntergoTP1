@@ -57,6 +57,7 @@
 		9B29E42B1F9FD7EF0042A7CC /* Icon-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B29E40D1F9FD7EF0042A7CC /* Icon-256.png */; };
 		9B29E42C1F9FD7EF0042A7CC /* Icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B29E40E1F9FD7EF0042A7CC /* Icon-512.png */; };
 		9B29E42D1F9FD7EF0042A7CC /* Icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B29E40F1F9FD7EF0042A7CC /* Icon-1024.png */; };
+		9B29E4311FA11B6F0042A7CC /* MichiganTaxe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B29E4301FA11B6F0042A7CC /* MichiganTaxe.swift */; };
 		9D355DC81D70946100D4D755 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D4DEC4F1D6DDE39001490B9 /* Main.storyboard */; };
 		9D4DEC4C1D6DDE39001490B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4DEC4B1D6DDE39001490B9 /* AppDelegate.swift */; };
 		9D4DEC4E1D6DDE39001490B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4DEC4D1D6DDE39001490B9 /* ViewController.swift */; };
@@ -118,6 +119,7 @@
 		9B29E40D1F9FD7EF0042A7CC /* Icon-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-256.png"; path = "Images/icon/Icon-256.png"; sourceTree = "<group>"; };
 		9B29E40E1F9FD7EF0042A7CC /* Icon-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-512.png"; path = "Images/icon/Icon-512.png"; sourceTree = "<group>"; };
 		9B29E40F1F9FD7EF0042A7CC /* Icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-1024.png"; path = "Images/icon/Icon-1024.png"; sourceTree = "<group>"; };
+		9B29E4301FA11B6F0042A7CC /* MichiganTaxe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MichiganTaxe.swift; sourceTree = "<group>"; };
 		9D4DEC481D6DDE38001490B9 /* AddUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AddUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D4DEC4B1D6DDE39001490B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D4DEC4D1D6DDE39001490B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -186,6 +188,7 @@
 				9D741FF11D74BA260064B267 /* Singleton.swift */,
 				9D4DEC4D1D6DDE39001490B9 /* ViewController.swift */,
 				9DC7199B1D77229C0063670B /* QuebecTaxes.swift */,
+				9B29E4301FA11B6F0042A7CC /* MichiganTaxe.swift */,
 				9D7E0FCC1D75D67800D2ADFA /* TableController.swift */,
 				9D4DEC4F1D6DDE39001490B9 /* Main.storyboard */,
 				9D4DEC521D6DDE39001490B9 /* Assets.xcassets */,
@@ -379,6 +382,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D7E0FCD1D75D67800D2ADFA /* TableController.swift in Sources */,
+				9B29E4311FA11B6F0042A7CC /* MichiganTaxe.swift in Sources */,
 				9D4DEC4E1D6DDE39001490B9 /* ViewController.swift in Sources */,
 				9D741FF21D74BA260064B267 /* Singleton.swift in Sources */,
 				9D4DEC4C1D6DDE39001490B9 /* AppDelegate.swift in Sources */,
